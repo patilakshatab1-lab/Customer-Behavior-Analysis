@@ -25,10 +25,15 @@ Excel – Initial validation and formatting
 
 The interactive Power BI dashboard includes:
 📌 Total Revenue KPI
+
 📌 Average Purchase Value
+
 📌 Subscription Rate
+
 📌 Monthly Revenue Trends
+
 📌 Customer Segmentation Analysis
+
 📌 Interactive slicers for dynamic filtering
 
 The dashboard is designed to provide quick and actionable insights for business stakeholders.
